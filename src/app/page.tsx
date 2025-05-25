@@ -76,7 +76,7 @@ export default function PersonalWebsite() {
               <div className="mb-8">
                 <div className="w-32 h-32 bg-muted rounded-full mx-auto mb-6 flex items-center justify-center overflow-hidden">
                   <img
-                    src="/profile.jpg"
+                    src="/personal_website/profile.JPG"
                     alt="Profile"
                     className="w-full h-full object-cover"
                   />
